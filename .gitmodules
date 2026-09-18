@@ -6,3 +6,7 @@
 	path = plugins/io.limao996.hoohoolib
 	url = https://github.com/limao996/LNR-HoohooLib-Repo.git
 	branch = hoohoolib
+[submodule "plugins/io.nightfish.lightnovelreader.plugin.linovelib_simplified"]
+	path = plugins/io.nightfish.lightnovelreader.plugin.linovelib_simplified
+	url = https://github.com/Maker-Wen/lightnovelreader-plugin-linovelib-simplified-dist.git
+	branch = main
